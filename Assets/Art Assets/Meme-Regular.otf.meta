@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bc390b306d6fae14d833bf260c7253a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Meme
+  fontNames:
+  - Meme
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63325bac9cae4c64185a639c141975ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
